@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{C6E84EC9-CD86-4DFD-B322-E34115AF68FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array[3]", "TelephoneNumber\Array[3].csproj", "{F546AEB7-DE44-4D0F-B5F7-EACD9343B321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertStringToNumber", "ConvertStringToNumber\ConvertStringToNumber.csproj", "{F59C0F76-5570-4A5A-B675-55BDA69A5EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithArrays", "PlayingWithArrays\PlayingWithArrays.csproj", "{86FF3409-5FF2-4872-A602-3FCE85DEA358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6E84EC9-CD86-4DFD-B322-E34115AF68FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E84EC9-CD86-4DFD-B322-E34115AF68FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E84EC9-CD86-4DFD-B322-E34115AF68FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E84EC9-CD86-4DFD-B322-E34115AF68FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F546AEB7-DE44-4D0F-B5F7-EACD9343B321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F546AEB7-DE44-4D0F-B5F7-EACD9343B321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F546AEB7-DE44-4D0F-B5F7-EACD9343B321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F546AEB7-DE44-4D0F-B5F7-EACD9343B321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59C0F76-5570-4A5A-B675-55BDA69A5EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59C0F76-5570-4A5A-B675-55BDA69A5EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59C0F76-5570-4A5A-B675-55BDA69A5EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59C0F76-5570-4A5A-B675-55BDA69A5EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FF3409-5FF2-4872-A602-3FCE85DEA358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FF3409-5FF2-4872-A602-3FCE85DEA358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FF3409-5FF2-4872-A602-3FCE85DEA358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FF3409-5FF2-4872-A602-3FCE85DEA358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D56796EC-8BCD-40CA-AA04-D72F21B12B8B}
+	EndGlobalSection
+EndGlobal
